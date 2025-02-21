@@ -8,8 +8,8 @@ Hello! I'm a developer with experience in Ruby on Rails and other web technologi
 - 🔍 **Current Interests:** Scalable architectures, database optimization, design patterns in Rails, code refactoring
 
 ## 📌 Featured Projects
-🔹 [Sortfella](https://sortfella.azkawa.dev) - React project to kinda sort or untagle Spotify playlists.
-🔹 [Mindfulness Assistant](https://mind.azkawa.dev) - Tiny vanilla HTML/JS/CSS project to help me breath correctly (and hopefully it will help you too!)
+- [Sortfella](https://sortfella.azkawa.dev) - React project to kinda sort or untagle Spotify playlists.
+- [Mindfulness Assistant](https://mind.azkawa.dev) - Tiny vanilla HTML/JS/CSS project to help me breath correctly (and hopefully it will help you too!)
 
 ## 📫 Contact
 If you'd like to discuss web development, share ideas, or collaborate on a project, you can find me here:
