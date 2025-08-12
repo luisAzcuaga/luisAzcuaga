@@ -10,6 +10,7 @@ Hello! I'm a developer with experience in Ruby on Rails and other web technologi
 ## 📌 Featured Projects
 - [Sortfella](https://sortfella.azkawa.dev) - React project to kinda sort or untagle Spotify playlists.
 - [Mindfulness Assistant](https://mind.azkawa.dev) - Tiny vanilla HTML/JS/CSS project to help me breath correctly (and hopefully it will help you too!)
+- [Git Line Log](https://marketplace.visualstudio.com/items?itemName=LuisAzcuaga.git-line-log) - Tiny (yet powerful) VSCode Extension to display single line log on hover. :)
 
 ## 📫 Contact
 If you'd like to discuss web development, share ideas, or collaborate on a project, you can find me here:
