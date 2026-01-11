@@ -4,11 +4,12 @@ Hello! I'm a developer with experience in Ruby on Rails and other web technologi
 ## 🚀 Technologies & Tools
 - 🛠 **Backend:** Ruby on Rails, PostgreSQL, Express.js
 - 🌐 **Frontend:** HTML, CSS, Javascript, React, Bootstrap, Tailwind
-- 📦 **Test Suites:** Jest, Rspec, MiniTest
+- 📦 **Test Suites:** Rspec, MiniTest, Jest
 - 🔍 **Current Interests:** Scalable architectures, database optimization, design patterns in Rails, code refactoring
 
 ## 📌 Featured Projects
-- [Sortfella](https://sortfella.azkawa.dev) - React project to kinda sort or untagle Spotify playlists.
+- [Sortfella](https://sortfella.azkawa.dev) - React project to sort Spotify playlists using parameters as popularity, danceability, etc.
+- [Turnips Calculator](https://turnips.azkawa.dev) - Tiny Turnip calculator for Animal Crossing: New Horizons (now supporting link sharing!)
 - [Mindfulness Assistant](https://mind.azkawa.dev) - Tiny vanilla HTML/JS/CSS project to help me breath correctly (and hopefully it will help you too!)
 - [Git Line Log](https://marketplace.visualstudio.com/items?itemName=LuisAzcuaga.git-line-log) - Tiny (yet powerful) VSCode Extension to display single line log on hover. :)
 
