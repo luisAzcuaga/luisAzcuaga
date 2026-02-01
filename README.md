@@ -12,6 +12,7 @@ Hello! I'm a developer with experience in Ruby on Rails and other web technologi
 - [Turnips Calculator](https://turnips.azkawa.dev) - Tiny Turnip calculator for Animal Crossing: New Horizons (now supporting link sharing!)
 - [Mindfulness Assistant](https://mind.azkawa.dev) - Tiny vanilla HTML/JS/CSS project to help me breath correctly (and hopefully it will help you too!)
 - [Git Line Log](https://marketplace.visualstudio.com/items?itemName=LuisAzcuaga.git-line-log) - Tiny (yet powerful) VSCode Extension to display single line log on hover. :)
+- [Git Line Log (for Cursor)](https://open-vsx.org/extension/luisAzcuaga/git-line-log)
 
 ## 📫 Contact
 If you'd like to discuss web development, share ideas, or collaborate on a project, you can find me here:
